@@ -6,4 +6,4 @@ STEPS TO FOLLOW: <br/>
 •	Once the car model is identified, ensure that the flag is written in the exact format specified in the challenge question.  <br/>
 •	The correct model of the car is the flag  <br/>
  What did i understand:  <br/>
- I learned how to use online image search tools to identify objects in this case the specific model of a car.  <br/>
+ I learned how to use online image search tools to identify objects in this case, the specific model of a car.  <br/>
